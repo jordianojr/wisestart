@@ -1,0 +1,37 @@
+﻿transaction_cost_type,cost_line,fixed_or_variable,cost_region,cost_in_gbp,variable_fee
+POS/ECOM,Scheme fees (auth and clearing),Fixed,Domestic,£0.0094,
+POS/ECOM,Issuer fees (WC),Fixed,Domestic,£0.0200,
+POS/ECOM,Processing fees (Carta),Fixed,Domestic,£0.0300,
+POS/ECOM,Scheme % fees (Issuing+Investment),Variable,Domestic,,0.000%
+POS/ECOM,Scheme FX,Variable,Domestic,,0.000%
+POS/ECOM,Interchange,Variable,Domestic,,-0.200%
+ATM,Scheme fees (auth and clearing),Fixed,Domestic,£0.0094,
+ATM,Issuer fees (WC),Fixed,Domestic,£0.0200,
+ATM,Processing fees (Carta),Fixed,Domestic,£0.0300,
+ATM,Scheme % fees (Issuing+Investment),Variable,Domestic,,0.000%
+ATM,Scheme FX,Variable,Domestic,,0.000%
+ATM,Interchange,Variable,Domestic,,0.130%
+POS/ECOM,Scheme fees (auth and clearing),Fixed,Intra,£0.0094,
+POS/ECOM,Issuer fees (WC),Fixed,Intra,£0.0200,
+POS/ECOM,Processing fees (Carta),Fixed,Intra,£0.0300,
+POS/ECOM,Scheme % fees (Issuing+Investment),Variable,Intra,,0.075%
+POS/ECOM,Scheme FX,Variable,Intra,,0.000%
+POS/ECOM,Interchange,Variable,Intra,,-0.200%
+ATM,Scheme fees (auth and clearing),Fixed,Intra,£0.0094,
+ATM,Issuer fees (WC),Fixed,Intra,£0.0200,
+ATM,Processing fees (Carta),Fixed,Intra,£0.0300,
+ATM,Scheme % fees (Issuing+Investment),Variable,Intra,,0.075%
+ATM,Scheme FX,Variable,Intra,,0.000%
+ATM,Interchange,Variable,Intra,,0.130%
+POS/ECOM,Scheme fees (auth and clearing),Fixed,Inter,£0.0100,
+POS/ECOM,Issuer fees (WC),Fixed,Inter,£0.0200,
+POS/ECOM,Processing fees (Carta),Fixed,Inter,£0.0300,
+POS/ECOM,Scheme % fees (Issuing+Investment),Variable,Inter,,0.770%
+POS/ECOM,Scheme FX,Variable,Inter,,0.400%
+POS/ECOM,Interchange,Variable,Inter,,-1.200%
+ATM,Scheme fees (auth and clearing),Fixed,Inter,£0.0100,
+ATM,Issuer fees (WC),Fixed,Inter,£0.0200,
+ATM,Processing fees (Carta),Fixed,Inter,£0.0300,
+ATM,Scheme % fees (Issuing+Investment),Variable,Inter,,0.770%
+ATM,Scheme FX,Variable,Inter,,0.400%
+ATM,Interchange,Variable,Inter,,0.200%

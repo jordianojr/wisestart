@@ -1,0 +1,164 @@
+﻿code,name,rate_compared_to_gbp,rate_compared_to_usd
+EUR,Euro,0.87951,1.180365
+GBP,British Pounds,1,1.342071
+USD,United States dollar,0.745117,1
+PLN,Polish Zloty,0.205584,0.275908
+CHF,Swiss franc,0.75701,1.015961
+NOK,Norwegian krone,0.092605,0.124282
+SEK,Swedish krona,0.085669,0.114974
+DKK,Danish krone,0.118068,0.158456
+AUD,Australian dollar,0.567029,0.760993
+CAD,Canadian dollar,0.574998,0.771688
+JPY,Japanese yen,0.006808,0.009137
+LTL,Lithuanian Litas,0.249057,0.334252
+HUF,Hungarian Forint,0.002751,0.003692
+GEL,Georgian lari,0.304232,0.408301
+HKD,Hong Kong Dollar,0.094956,0.127438
+ISK,Icelandic króna,0.007053,0.009466
+INR,Indian Rupee,0.01104,0.014816
+IDR,Indonesian Rupiah,0.000053,0.000071
+MYR,Malaysian Ringgit,0.187035,0.251014
+MXN,Mexican Peso,0.036671,0.049215
+RON,New Romanian Leu,0.188255,0.252652
+TRY,Turkish Lira,0.166675,0.22369
+NZD,New Zealand Dollar,0.5246,0.704051
+PHP,Philippine Peso,0.014088,0.018907
+RUB,Russian Rouble,0.011959,0.01605
+SGD,Singapore Dollar,0.558579,0.749653
+ZAR,South African Rand,0.057117,0.076655
+THB,Thai Baht,0.023259,0.031215
+ILS,Israeli shekel,0.208477,0.279791
+CZK,Czech Koruna,0.034164,0.045851
+BGN,Bulgarian Lev,0.448328,0.601688
+BRL,Brazil Real,0.200996,0.269751
+CLP,Chilean Peso,0.001185,0.00159
+COP,Colombia Peso,0.000263,0.000353
+CRC,Costa Rica Colon,0.001318,0.001769
+GHS,Ghana Cedis,0.158504,0.212724
+GTQ,Guatemala Quetzal,0.099884,0.134051
+KRW,Korea (South) Won,0.000694,0.000931
+KGS,Kyrgyzstan Som,0.010904,0.014634
+LBP,Lebanon Pound,0.000495,0.000664
+LRD,Liberia Dollar,0.00537,0.007207
+NGN,Nigeria Naira,0.002079,0.00279
+PKR,Pakistan Rupee,0.006463,0.008674
+BDT,Bangladeshi Taka,0.008838,0.011861
+PEN,Peru Nuevo Sol,0.229257,0.307679
+QAR,Qatar Riyal,0.205419,0.275687
+SAR,Saudi Arabia Riyal,0.198698,0.266667
+LKR,Sri Lanka Rupee,0.004706,0.006316
+TWD,Taiwan New Dollar,0.024994,0.033544
+VND,Viet Nam Dong,0.000033,0.000044
+KES,Kenyan Shilling,0.007388,0.009915
+MAD,Moroccan Dirham,0.078979,0.105995
+XOF,West African CFA franc,0.001341,0.0018
+SDG,Sudanese Pound,0.04141,0.055575
+UGX,Ugandan Shilling,0.000197,0.000264
+ETB,Ethiopian birr,0.027181,0.036479
+AED,United Arab Emirates Dirham,0.202853,0.272243
+CNY,Chinese yuan,0.11666,0.156566
+AZN,Azerbaijani manat,0.43766,0.587371
+HRK,Croatian kuna,0.118799,0.159437
+BAM,Bosnian convertible mark,0.448945,0.602516
+EGP,Egyptian pound,0.041871,0.056194
+ALL,Albanian lek,0.006901,0.009262
+JMD,Jamaican dollar,0.005814,0.007803
+KHR,Cambodian riel,0.000183,0.000246
+MUR,Mauritian rupee,0.021947,0.029454
+AMD,Armenian dram,0.001552,0.002083
+TZS,Tanzanian shilling,0.000328,0.00044
+UAH,Ukrainian hryvnia,0.028622,0.038413
+KWD,Kuwaiti dinar,2.466213,3.309833
+MMK,Myanmar kyat,0.000552,0.000741
+IRR,Iranian rial,0.000018,0.000024
+RSD,Serbian dinar,0.007429,0.00997
+BYR,Belarusian ruble,,0
+UYU,Uruguayan peso,0.024076,0.032312
+MKD,Macedonian denar,0.014254,0.01913
+ARS,Argentine peso,0.030004,0.040268
+NPR,Nepalese rupee,0.006909,0.009272
+PAB,Panamanian balboa,0.745117,1
+KZT,Kazakhstani tenge,0.002238,0.003004
+XCD,East Caribbean dollar,0.275709,0.370021
+MZN,Mozambican metical,0.012469,0.016734
+SVC,Salvadoran colon,0.085497,0.114743
+DOP,Dominican peso,0.015083,0.020242
+HNL,Honduran lempira,0.031308,0.042018
+AOA,Angolan kwanza,0.003132,0.004203
+JOD,Jordanian dinar,1.050196,1.409438
+MDL,Moldovan leu,0.044571,0.059817
+GMD,Gambian dalasi,0.01578,0.021178
+SLL,Sierra Leonean leonw,0.000095,0.000127
+MNT,Mongolian tugrik,0.000309,0.000415
+MWK,Malawian kwacha,0.001031,0.001384
+OMR,Omani rial,1.937117,2.599749
+BND,Brunei dollar,0.559685,0.751137
+FJD,Fijian dollar,0.362932,0.487081
+LAK,Lao kip,0.000089,0.000119
+PGK,Papua New Guinean kina,0.229161,0.30755
+BTN,Bhutanese ngultrum,0.011052,0.014833
+CVE,Cape Verdean escudo,0.007935,0.010649
+TND,Tunisian dinar,0.291164,0.390763
+ZMK,Zambian kwacha,,0
+GYD,Guyanese dollar,0.00358,0.004805
+BMD,Bermudian dollar,0.745117,1
+NIO,Nicaraguan córdoba,0.023652,0.031743
+BOB,Bolivian boliviano,0.10827,0.145306
+TTD,Trinidad and Tobago dollar,0.111001,0.148971
+BSD,Bahamian dollar,0.745117,1
+BWP,Botswana pula,0.073548,0.098707
+GNF,Guinean franc,0.000083,0.000111
+BHD,Bahraini dinar,1.980673,2.658204
+BBD,Barbadian dollar,0.372558,0.499999
+XAF,Central African CFA franc,0.001341,0.0018
+AFN,Afghanistan afghani,0.010453,0.014029
+ANG,Netherlands Antillean guilder,0.416778,0.559346
+BZD,Belizean dollar,0.372215,0.499539
+CUC,Cuban Convertible peso,0.745117,1
+FKP,Falkland Islands pound,1,1.342071
+GGP,Guernsey pound,1,1.342071
+GIP,Gibraltar pound,1,1.342071
+IMP,Isle of Man pound,1,1.342071
+JEP,Jersey pound,1,1.342071
+KYD,Cayman Islands dollar,0.897715,1.204797
+NAD,Namibian dollar,0.056601,0.075963
+PYG,Paraguay Guaraní,0.000131,0.000176
+SBD,Solomon Islands dollar,0.094236,0.126471
+SCR,Seychellois rupee,0.05535,0.074284
+SHP,Saint Helena pound,1,1.342071
+SOS,Somali shilling,0.001293,0.001735
+SRD,Surinamese dollar,0.099775,0.133905
+SYP,Syrian pound,0.001447,0.001942
+UZS,Uzbekistani som,0.000094,0.000126
+VEF,Venezuelan bolívar,0.000009,0.000012
+YER,Yemeni rial,0.002977,0.003995
+DZD,Algerian Dinar,0.006402,0.008592
+AWG,Aruban Florin,0.41679,0.559362
+BYN,Belarusian Ruble,0.373463,0.501214
+BIF,Burundi Franc,0.000425,0.00057
+KMF,Comoro Franc,0.001778,0.002386
+CDF,Congolese Franc,0.000466,0.000625
+CUP,Cuban Peso,0.02922,0.039215
+DJF,Djibouti Franc,0.004186,0.005618
+ERN,Nakfa,0.049378,0.066269
+XPF,CFP Franc,0.00737,0.009891
+HTG,Gourde,0.011587,0.015551
+IQD,Iraqi Dinar,0.000626,0.00084
+KPW,North Korean Won,0.000828,0.001111
+LSL,Loti,0.056601,0.075963
+LYD,Libyan Dinar,0.550495,0.738803
+MOP,Pataca,0.092576,0.124244
+MGA,Malagasy Ariary,0.00022,0.000295
+MVR,Rufiyaa,0.048072,0.064516
+MRO,Ouguiya,0.002096,0.002813
+RWF,Rwanda Franc,0.00086,0.001154
+WST,Tala,0.291788,0.3916
+STD,Dobra,0.000036,0.000048
+SSP,South Sudanese Pound,,0
+SZL,Lilangeni,0.056636,0.07601
+TJS,Somoni,0.082567,0.110811
+TOP,Pa’anga,0.327975,0.440166
+TMT,Turkmenistan New Manat,0.212891,0.285715
+VUV,Vatu,0.006984,0.009373
+ZMW,Zambian Kwacha,0.073528,0.09868
+ZWL,Zimbabwe Dollar,0.002311,0.003102

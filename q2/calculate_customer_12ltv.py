@@ -30,6 +30,23 @@ country_group = result.groupby('profile_address_country').agg(
 ).reset_index()
 country_group = country_group[country_group['user_count'] > 10].sort_values(by='avg_12_month_ltv', ascending=False)
 
+# Count transaction types per country
+transaction_counts = merged.groupby(['profile_address_country', 'transaction_type']).size().unstack(fill_value=0)
+# Rename columns for clarity
+transaction_counts = transaction_counts.rename(columns={
+    'CASH_WITHDRAWAL': 'atm_count',
+    'POS_PURCHASE': 'pos_count',
+    'ECOM_PURCHASE': 'ecom_count'
+})
+# Ensure all columns exist
+for col in ['atm_count', 'pos_count', 'ecom_count']:
+    if col not in transaction_counts.columns:
+        transaction_counts[col] = 0
+transaction_counts = transaction_counts[['atm_count', 'pos_count', 'ecom_count']]
+
+# Merge transaction counts into country_group
+country_group = country_group.merge(transaction_counts, left_on='profile_address_country', right_index=True, how='left').fillna(0)
+
 # Save to CSV
 result.to_csv('engaged_user_total_profit.csv', index=False)
 country_group.to_csv('country_12_month_ltv.csv', index=False)
